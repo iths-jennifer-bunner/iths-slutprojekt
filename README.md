@@ -1,4 +1,4 @@
-# Slutprojekt - HTML och CSS
+﻿# Slutprojekt - HTML och CSS
 
 ## Kravspecifikation
 
